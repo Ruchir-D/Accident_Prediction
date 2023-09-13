@@ -90,7 +90,6 @@ avg / total         0.72           0.62             0.65
 * Jupyter notebook, AWS-Postgres, Databricks, PySpark, Pandas, Scikit-learn, FLASK, Tableau
 
 ### Team Members:
-* Ahmar Jamal
-* Bhavini Vyas
-* Rutabah Khan
+* Ruchir Dandge
+* Gautam Yadav
 
